@@ -1,0 +1,3 @@
+[submodule "client/pomeranian"]
+	path = client/pomeranian
+	url = git@github.com:cryptopuppies/pomeranian.git
